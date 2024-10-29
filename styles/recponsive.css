@@ -1,0 +1,79 @@
+@media screen and (max-width: 600px){
+    body{
+        width: 100vw;
+        height: 130vh;
+    }
+  .head-1{
+    display: none;
+  }  
+  .head{
+  display: flex;
+
+ gap: 400px;
+  }
+  .ho{
+    width: 92%;
+  }
+ .ho p{
+    width: 90%;
+    height: 100px;
+   bottom: 200px;
+ }
+ .card-1{
+   bottom: -10vh;
+   right: 0;
+ }
+  .hj h3{
+    font-size: 31px;
+  }
+  .hj h4{
+    font-size: 31px;
+  }
+  .home p{
+    margin-top: 200px;
+  }
+  .kl{
+   
+  }
+  .kl p{
+    margin-top: 1px;
+  }
+  .Home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 150vh;
+  }
+  .home{
+  width: 400px;
+    position: absolute;
+    top: 80px;
+  }
+  
+  .icon{
+   position: absolute;
+   right: -30px;
+   margin-top: -50px;
+  }
+  
+  .home-2{
+    margin-top: 220px;
+  }
+  .card{
+    width: 300px;
+  }
+  .Card img{
+    width: 100vw;
+    height: 140vh;
+  }
+  .jaket{
+   display: flex;
+   position: absolute;
+   bottom: -400px;
+  }
+  .kaj-3{
+   bottom: -280px;
+  }
+  
+}
